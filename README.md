@@ -1,17 +1,9 @@
 ### Hi there 👋 I'm Juliana 👨‍💻
 
+: computer: Sou uma estudante de engenharia de computação e programação
+: house_with_garden: Eu sou de São Paulo, Brasil.
+: outbox_tray: 2021 Objetivos: criar um novo projeto e encontrar um novo emprego
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 
@@ -26,6 +18,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jul-reis)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julianareis-souza/)
-
-[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/julianars/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julianareis-souza/) [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/julianars/)
