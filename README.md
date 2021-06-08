@@ -1,5 +1,5 @@
 <img align="left" width="500" height="300" src="https://user-images.githubusercontent.com/83433522/121259099-10ebe500-c886-11eb-8a3d-e7d20d1ba94a.png">
-  <br>
+<br>
 <div align="justified" >
 👩🏻‍💻 I'm a computer engineering and programming student; <br>
 👽 Learning any tecnology that apears on my way; <br> 
@@ -25,23 +25,18 @@
 </a>
 
 <br>
-<br><br>
-<br><br>
-<br><br>
 <br>
-<div align="center">
-💻 My workspace
-</div>
-<br/>
+<br>
+<br>
+<br>
 
-<a href="https://github.com/Jul-Reis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-Reis&theme=dracula&show_langs_below=1" />
-</a>
+<h4><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github</h4>
+
 <br>
 <a href="https://github.com/Jul-Reis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jul-Reis&theme=dracula&show_icons=true" />
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Jul-Reis&theme=dracula&show_icons=true" />
 </a>
-
-<br/>
-
-
+  
+<a href="https://github.com/Jul-Reis">
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-Reis&theme=dracula&show_langs_below=1" />
+</a>
