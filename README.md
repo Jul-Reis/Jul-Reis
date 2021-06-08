@@ -17,8 +17,15 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jul-reis)
 
+
+<br/>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jul-Reis&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
