@@ -1,33 +1,29 @@
+![banner git](https://user-images.githubusercontent.com/83433522/121258535-683d8580-c885-11eb-8629-9a0ccf3040cf.png)
 
 
-🎓 I'm a computer engineering and programming student;
-🏡 I'm from São Paulo, Brazil;
-💼 Working as an administrative assistant;
-📌 2021 Objectives: create a new project and find a new job
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+👩🏻‍💻 I'm a computer engineering and programming student; <br>
+🏡 I'm from São Paulo, Brazil; <br>
+🌱 I'm currently learning Java; <br>
+🤝 I'm looking to collaborate on open source projects; <br>
+📌 2021 Objectives: create a new project and find a new job;
 
 
 💻 My workspace
 
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
-
-
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/Jul-Reis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-Reis&theme=dracula&show_langs_below=1" />
+</a>
+<br>
+<a href="https://github.com/Jul-Reis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jul-Reis&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> Connect with me </h3> 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julianareis-souza/)
 [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/julianars/)
